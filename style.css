@@ -46,8 +46,8 @@ header ul li
 header ul li a
 {
     display: inline-block;
-    color: #333;
-    font-weight: 400;
+    color: #080808;
+    font-weight: 600;
     margin-left: 40px;
     text-decoration: none;
 }
@@ -72,11 +72,13 @@ header ul li a
 }
 .Content .textBox h2 span{
     color: #017143;
-    font-size: 1.2em;
+    font-size: 2em;
     font-weight: 900;
+    text-shadow: #080808;
 }
 .Content .textBox p{
 color: #333;
+text-shadow: #080808;
 }
 .Content .textBox a{
     display: inline-block;
